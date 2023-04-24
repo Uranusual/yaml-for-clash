@@ -1,0 +1,2 @@
+proxies:
+  - {name: 防止filter失败的无效节点, server: 172.67.40.65, port: 443, type: trojan, password: 6c103bd3-2519-476-97cb-70fe71e0c845, sni: c1.777655.xyz, skip-cert-verify: true, network: ws, udp: true}
